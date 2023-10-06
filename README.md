@@ -8,12 +8,17 @@
 **Как и где запускать**: В репозитории находятся 2 программы расширения .py (файл python) - "задание 1" и "задание 2". Они создавались и редактировались в среде Microsoft Visual Studio, где и могут быть запущены по отдельности в любом порядке. Также код этих программ можно запустить в любом компиляторе.
 
 **Скриншоты тестов**
+
 *задание 1*
-![Screenshot](test1.jpg)
+
+![screenshot1](https://github.com/andreich1rkov/lab2/blob/main/test1.JPG)
+
 
 
 *задание 2*
-![Screenshot](test2.jpg)
+
+![screenshot2](https://github.com/andreich1rkov/lab2/blob/main/test2.JPG)
+
 
 
 
